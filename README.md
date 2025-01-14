@@ -1,2 +1,2 @@
 # Auction
-Make a auction
+This the code to make a Auction of the teams.
